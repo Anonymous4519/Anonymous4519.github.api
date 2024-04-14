@@ -1,0 +1,71 @@
+insert into products(name,price,description,buy_num,image_url) values (
+'衣服','99','HEYMARKET 美式字母印花翻领落肩宽松休闲外套教练夹克男女同款','5000','/images/index/recommend_list_01.png'
+);
+insert into products(name,price,description,buy_num,image_url) values (
+'鞋子','399','田径训练减震防滑耐磨低帮 跑步鞋 男女同款 白橘','9000','/images/index/recommend_list_02.png'
+);
+insert into products(name,price,description,buy_num,image_url) values (
+'玩偶','1279',' 小八 长绒毛款 玩偶 毛绒挂件','13','/images/index/recommend_list_03.png'
+);
+insert into products(name,price,description,buy_num,image_url) values (
+'手机壳','59','华为mate60/Pro/Pro+ 透明防摔 无边框镜头全包 防指纹 手机壳','85','/images/index/recommend_list_04.png'
+);
+insert into products(name,price,description,buy_num,image_url) values (
+'茅台酒','249','茅台  贵州茅台酒 酱香型白酒','1000','/images/index/recommend_list_05.png'
+);
+insert into products(name,price,description,buy_num,image_url) values (
+'短裤','43','简约篮球裤体育生训练休闲短裤 男女同款','11000','/images/index/recommend_list_06.png'
+);
+insert into products(name,price,description,buy_num,image_url) values (
+'拖鞋','41','夏季凉拖鞋 潮流防滑耐磨运动','9000','/images/index/recommend_list_07.png'
+);
+insert into products(name,price,description,buy_num,image_url) values (
+'书包','162','背包双肩包中号儿童款 红色','86000','/images/index/recommend_list_08.png'
+);
+insert into products(name,price,description,buy_num,image_url) values (
+'耳机','29','通用苹果/华为/安卓TWS入耳式降噪迷你超长续航大量真无线耳机','4000','/images/index/recommend_list_09.png'
+);
+insert into products(name,price,description,buy_num,image_url) values (
+'手机','1279','小米 红米 全网通 高通二代骁龙 6.67英寸5G手机 ','18000','/images/index/recommend_list_10.png'
+);
+insert into products(name,price,description,buy_num,image_url) values (
+'手办','799','新世纪福音战士 新剧场比例手办 ','71','/images/index/recommend_list_11.png'
+);
+insert into products(name,price,description,buy_num,image_url) values (
+'手表','169','剑鱼水鬼海洋之心商务钢带 石英机芯日韩表 蓝色表盘 ','78000','/images/index/recommend_list_12.png'
+);
+insert into products(name,price,description,buy_num,image_url) values (
+'鸡肉干','20','耐嚼解馋香韧不柴高蛋白质自然风干休闲零食食品','12000','/images/index/recommend_list_13.png'
+);
+insert into products(name,price,description,buy_num,image_url) values (
+'叶黄素软糖','20','酸甜水果味小熊软糖儿童大人青少年零食独立包装健康食品','5000','/images/index/recommend_list_14.png'
+);
+insert into products(name,price,description,buy_num,image_url) values (
+'鸭舌帽','59','纯色简约软顶春夏时尚休闲遮阳鸭舌帽 男女情侣同款','37000','/images/index/recommend_list_15.png'
+);
+insert into products(name,price,description,buy_num,image_url) values (
+'筋膜枪','89','深层肌肉乳酸分解min版便携式 充电款','2000','/images/index/recommend_list_16.png'
+);
+insert into products(name,price,description,buy_num,image_url) values (
+'戒指','199','简约经典百搭 戒指 男女同款情侣款','250000','/images/index/recommend_list_17.png'
+);
+
+insert into products(name,price,description,buy_num,image_url) values (
+'牛奶','42','优酸乳草莓味国粒酸奶饮品','22000','/images/index/recommend_list_18.png'
+);
+insert into products(name,price,description,buy_num,image_url) values (
+'手电','19','小型便携超亮家用远射超长续航手电','2000','/images/index/recommend_list_19.png'
+);
+
+insert into products(name,price,description,buy_num,image_url) values (
+'手电','68','网红小香风玫瑰花束','11000','/images/index/recommend_list_20.png'
+);
+insert into products(name,price,description,buy_num,image_url) values (
+'书籍','4','国学经典名著','8000','/images/index/recommend_list_21.png'
+);
+
+
+
+
+
+
